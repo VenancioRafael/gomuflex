@@ -1,1 +1,1 @@
-<pre>Gomuflex: sinalização viária e lixeiras -> <a href="gomuflex.com.br" target="_blank">gomuflex.com.br</a></pre>
+<pre>Gomuflex: sinalização viária e lixeiras -> gomuflex.com.br</pre>
