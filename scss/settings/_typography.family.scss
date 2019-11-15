@@ -1,6 +1,6 @@
 // Font Categories
 $font-family-fallback:  'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Ubuntu', system-ui, sans-serif;
 $font-family-text:      'SF Pro Text', $font-family-fallback;
-$font-family-display:   'SF Pro Display'; $font-family-text;
+$font-family-display:   'SF Pro Display', $font-family-text;
 $font-family-mono:      'SF Mono', 'Roboto Mono', 'Ubuntu Mono', 'Courier New', monospace;
 // End of Font Categories
